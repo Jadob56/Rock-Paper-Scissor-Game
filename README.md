@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-Rock-Paper-Scissor-Game
+Simple virson of Rock-Paper-Scissor-Game
